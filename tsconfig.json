@@ -1,0 +1,6 @@
+{
+    "include": ["src"], //ts가 어디있는지
+    "compilerOptions": { 
+        "outDir": "dist", //컴파일된 js가 있을 폴더
+    }
+}
